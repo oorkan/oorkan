@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **oorkan/oorkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+"Empty your mind. Be formless, shapeless - like water. You put water into a cup, it becomes the cup. You put water into a bottle, it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. Be water, my friend!" -- Bruce Lee.
+
+Flexibility and adaptation are the key.
